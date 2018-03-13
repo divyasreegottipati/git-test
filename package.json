@@ -4,7 +4,9 @@
   "description": "This is a test directory to learn git and node",
   "main": "index.html",
   "scripts": {
-    "test": "C:\\Users\\H156839\\coursera\\git-test"
+    "start": "npm run lite",
+    "test": "C:\\Users\\H156839\\coursera\\git-test",
+    "lite" : "lite-server"
   },
   "repository": {
     "type": "git",
